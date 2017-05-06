@@ -592,6 +592,10 @@
   width:1500px;
   height:80px;
 }
+#u345_img.selected {
+}
+#u345.selected {
+}
 #u346 {
   border-width:0px;
   position:absolute;
@@ -663,6 +667,10 @@
   top:0px;
   width:1024px;
   height:80px;
+}
+#u350_img.selected {
+}
+#u350.selected {
 }
 #u351 {
   border-width:0px;
@@ -881,6 +889,10 @@
   top:62px;
   width:31px;
   height:15px;
+}
+#u364_img.selected {
+}
+#u364.selected {
 }
 #u365 {
   border-width:0px;
