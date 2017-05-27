@@ -28,6 +28,7 @@
   top:81px;
   width:1024px;
   height:80px;
+  opacity:0.1;
 }
 #u751 {
   border-width:0px;
@@ -87,10 +88,6 @@
   top:0px;
   width:1500px;
   height:80px;
-}
-#u753_img.selected {
-}
-#u753.selected {
 }
 #u754 {
   border-width:0px;
@@ -163,10 +160,6 @@
   top:0px;
   width:1024px;
   height:80px;
-}
-#u758_img.selected {
-}
-#u758.selected {
 }
 #u759 {
   border-width:0px;
